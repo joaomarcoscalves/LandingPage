@@ -172,7 +172,6 @@ footer {
     text-transform: capitalize;
 }
 .footer-bottom span {
-    text-transform:  uppercase;
     opacity: .4;
     font-weight: 200;
 }
